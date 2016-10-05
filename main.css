@@ -1,0 +1,27 @@
+body{
+  background-color: #6495ED;
+  color: black;
+}
+
+p, h1, h2, h3, h4, ul, li{
+  position: relative;
+  left: 75px;
+  font-family:"BigFictionText";
+  font-size: 22;
+}
+p, h2, ul,h4{
+  position: relative;
+  top: -175px;
+}
+img{
+  height: auto;
+  width: 18%;
+  position: relative;
+  left: 700px;
+  top:-100px;
+}
+h4{
+  color: PINK;
+  left: 700px;
+  top: -275px;
+}
