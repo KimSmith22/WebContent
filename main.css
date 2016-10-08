@@ -19,6 +19,7 @@ img{
   position: relative;
   left: 700px;
   top:-100px;
+  padding: 5px;
 }
 h4{
   color: PINK;
